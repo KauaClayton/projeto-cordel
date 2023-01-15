@@ -52,6 +52,24 @@ main p {
     font-size: 2.3em;
 }
 
+#flor{
+    background: black url('https://github.com/professorguanabara/projeto-cordel/blob/master/imagens/background001.jpg?raw=true') left center no-repeat fixed;
+    background-size: cover;
+    box-shadow: 1px 1px 9px black;
+}
+
+.container p{
+    color: white;
+}
+
+
+#livro{
+    background: black url('https://github.com/professorguanabara/projeto-cordel/blob/master/imagens/background002.jpg?raw=true') center center no-repeat fixed;
+    background-size: cover;
+    box-shadow: 1px 1px 9px black;
+}
+
+
 
 footer{
     background-color: black;
